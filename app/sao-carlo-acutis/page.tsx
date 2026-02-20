@@ -1,6 +1,6 @@
-import type { Metadata } from "next";
 import { SaintStoriesCarousel } from "@/components/saints/SaintStoriesCarousel";
 import type { Story } from "@/components/saints/types";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "São Carlo Acutis",
@@ -24,7 +24,7 @@ const stories: Story[] = [
     subtitle:
       "Carlo Acutis nasceu em 3 de maio de 1991, em Londres, e foi criado em Milão. Mesmo jovem, viveu para Jesus com profundidade.",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Carlo_Acutis_at_SMCB.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/thumb/7/78/Carlo_Acutis.jpg/250px-Carlo_Acutis.jpg",
     imagePosition: "50% 20%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#fb7185_0%,#e11d48_45%,#7e22ce_100%)]",
@@ -36,7 +36,7 @@ const stories: Story[] = [
     subtitle:
       "Ainda menino, Carlo dizia que seu objetivo era estar sempre unido a Jesus. Rezava o terço e vivia a Adoração Eucarística com alegria.",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tumba_Carlo_Acutis_%28cropped%29.jpg",
+      "https://www.bonsfluidos.com.br/wp-content/uploads/2025/08/CAPA-BONS-FLUIDOS-2025-08-27T175150.386.jpg",
     imagePosition: "50% 24%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#60a5fa_0%,#2563eb_45%,#1d4ed8_100%)]",
@@ -48,7 +48,7 @@ const stories: Story[] = [
     subtitle:
       "Com talento para programação, Carlo criou um site sobre milagres eucarísticos, levando Cristo aos jovens conectados.",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/d/d4/Reliquary_with_the_heart_of_Carlo_Acutis.jpg",
+      "https://diocesedecampos.org.br/wp-content/uploads/2020/10/foto-1.jpg",
     imagePosition: "50% 18%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#f59e0b_0%,#ea580c_45%,#be123c_100%)]",
@@ -72,7 +72,7 @@ const stories: Story[] = [
     subtitle:
       "Carlo morreu aos 15 anos de leucemia e foi canonizado em 2025, tornando-se um dos santos mais jovens da Igreja.",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/d/db/Covent_Garden%2C_Corpus_Christi_Catholic_Church%2C_Carlo_Acutis_memorial.jpg",
+      "https://wp.pt.aleteia.org/wp-content/uploads/sites/5/2020/10/IMG_1224.jpeg?w=720",
     imagePosition: "50% 20%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#4ade80_0%,#16a34a_45%,#14532d_100%)]",
@@ -83,7 +83,7 @@ const stories: Story[] = [
     title: "São Carlo Acutis, rogai por nós.",
     subtitle: "Você faz parte da equipe de São Carlo Acutis",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Carlo_Acutis_relic_2025.jpg",
+      "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/508e/live/f43954d0-192f-11ef-baa7-25d483663b8e.jpg.webp",
     imagePosition: "50% 20%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#a855f7_0%,#7e22ce_50%,#312e81_100%)]",
