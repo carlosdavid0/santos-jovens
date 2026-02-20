@@ -1,6 +1,6 @@
-import type { Metadata } from "next";
 import { SaintStoriesCarousel } from "@/components/saints/SaintStoriesCarousel";
 import type { Story } from "@/components/saints/types";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Santa Teresinha do Menino Jesus",
@@ -74,7 +74,7 @@ const stories: Story[] = [
     subtitle:
       "Teresinha prometeu uma chuva de rosas como sinal de graças. Mensagem-chave: a santidade está no amor simples, confiando em Deus como uma criança confia no Pai.",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/9/93/Th%C3%A9r%C3%A8se-vu-Lisieux-Statu%2C_Nidderdonwen-101.jpg",
+      "https://cdn.awsli.com.br/600x450/1672/1672036/produto/248014281/terezinha50x60-upscales-ai_1704557564306-1qkof4mbmd.jpg",
     imagePosition: "50% 24%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#4ade80_0%,#16a34a_45%,#14532d_100%)]",
@@ -85,7 +85,7 @@ const stories: Story[] = [
     title: "Santa Teresinha do Menino Jesus, rogai por nós.",
     subtitle: "Você faz parte da equipe de Santa Teresinha",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-sXsiAa2P4hXV-1jday7WDiNAckm_ULMsQ&s",
     imagePosition: "50% 20%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#a855f7_0%,#7e22ce_50%,#312e81_100%)]",
