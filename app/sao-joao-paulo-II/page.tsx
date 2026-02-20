@@ -1,6 +1,6 @@
-import type { Metadata } from "next";
 import { SaintStoriesCarousel } from "@/components/saints/SaintStoriesCarousel";
 import type { Story } from "@/components/saints/types";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "São João Paulo II",
@@ -24,7 +24,7 @@ const stories: Story[] = [
     subtitle:
       "Karol Wojtyla enfrentou guerra, perdas e dor. Em Cristo, encontrou a força que depois entregou aos jovens.",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pope_John_Paul_II_%2818731175945%29.jpg",
+      "https://arquidiocesedemanaus.org.br/wp-content/uploads/2022/10/s.-joao-paulo-II-e1666410832944.jpg",
     imagePosition: "50% 26%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#fb7185_0%,#e11d48_45%,#7e22ce_100%)]",
@@ -59,7 +59,7 @@ const stories: Story[] = [
     subtitle:
       "Ele chamava os jovens a viver sem medo: contra a corrente, com pureza, vocação e coragem para transformar o mundo.",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/b/be/Jan_Pawe%C5%82_II%2C_Pozna%C5%84_1997_%281%29.jpg",
+      "https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2018/09/07/00164_ALBANIA1993.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
     imagePosition: "50% 36%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#22d3ee_0%,#0ea5e9_45%,#4f46e5_100%)]",
@@ -82,7 +82,7 @@ const stories: Story[] = [
     title: "São João Paulo II, rogai por nós.",
     subtitle: "Você faz parte da equipe de São João Paulo II",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Portrait_of_Pope_John_Paul_II.jpg",
+      "https://comshalom.org/wp-content/uploads/2015/01/08/editorportal/JPII.oculos.jpg",
     imagePosition: "50% 20%",
     gradient:
       "bg-[radial-gradient(circle_at_20%_20%,#a855f7_0%,#7e22ce_50%,#312e81_100%)]",
